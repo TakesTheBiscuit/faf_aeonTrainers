@@ -1,0 +1,10 @@
+name = "Aeon trainers"
+version = 1
+copyright = "Biscotti & Darve"
+author = "Biscotti & Darve"
+description = "Aeon trainers. FAF only."
+url = "https://github.com/TakesTheBiscuit/faf_aeonTrainers"
+uid = "ae7a2946-1bcc-12ea-bc35-0242ac130009"
+icon = "/mods/faf_aeonTrainers/icon.png"
+exclusive = false
+ui_only = true
